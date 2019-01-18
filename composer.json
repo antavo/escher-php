@@ -1,5 +1,5 @@
 {
-    "name": "emartech/escher",
+    "name": "antavo/escher-php",
     "description": "Library for HTTP request signing (PHP implementation)",
     "homepage": "https://github.com/emartech/escher-php",
     "authors": [
